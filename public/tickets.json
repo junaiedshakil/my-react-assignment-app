@@ -1,0 +1,122 @@
+[
+  {
+    "id": 101,
+    "name": "Junaied Hasan",
+    "title": "Implement user authentication",
+    "description": "Add email/password sign-up and login with session management. Include validation and error messages for common failures.",
+    "customer": "Acme Corp",
+    "priority": "high",
+    "status": "in_progress",
+    "createdAt": "2025-07-15"
+  },
+  {
+    "id": 102,
+    "name": "Ayesha Rahman",
+    "title": "Design marketing landing page",
+    "description": "Create responsive marketing landing page with hero, features, testimonials, and CTA to capture leads.",
+    "customer": "BrightLeaf",
+    "priority": "medium",
+    "status": "open",
+    "createdAt": "2025-06-02"
+  },
+  {
+    "id": 103,
+    "name": "Rafiq Ahmed",
+    "title": "Fix payment gateway bug",
+    "description": "Investigate intermittent payment failures for Visa cards; add logging and retry logic. Coordinate with payment provider.",
+    "customer": "PayFlow Inc",
+    "priority": "critical",
+    "status": "blocked",
+    "createdAt": "2025-09-01"
+  },
+  {
+    "id": 104,
+    "name": "Nabila Khan",
+    "title": "Add CSV export for reports",
+    "description": "Provide server-side CSV export for monthly reports, include filters by date range and customer.",
+    "customer": "DataVista",
+    "priority": "low",
+    "status": "open",
+    "createdAt": "2025-05-20"
+  },
+  {
+    "id": 105,
+    "name": "Tanvir Islam",
+    "title": "Refactor notifications system",
+    "description": "Refactor push/email notification service to support templating and rate limiting.",
+    "customer": "Acme Corp",
+    "priority": "medium",
+    "status": "in_progress",
+    "createdAt": "2025-08-10"
+  },
+  {
+    "id": 106,
+    "name": "Sabrina Akter",
+    "title": "Mobile layout fixes",
+    "description": "Resolve layout issues on small screens: navigation overflow, CTA alignment, and image scaling.",
+    "customer": "BrightLeaf",
+    "priority": "high",
+    "status": "review",
+    "createdAt": "2025-07-28"
+  },
+  {
+    "id": 107,
+    "name": "Fahim Chowdhury",
+    "title": "Onboard new customer: GreenFarm",
+    "description": "Set up GreenFarm tenant, import initial product catalog, and configure billing plan.",
+    "customer": "GreenFarm",
+    "priority": "high",
+    "status": "open",
+    "createdAt": "2025-09-10"
+  },
+  {
+    "id": 108,
+    "name": "Rumana Sultana",
+    "title": "Write API docs v1",
+    "description": "Document public REST endpoints with examples for auth, products, orders, and webhooks.",
+    "customer": "Internal",
+    "priority": "medium",
+    "status": "in_progress",
+    "createdAt": "2025-04-18"
+  },
+  {
+    "id": 109,
+    "name": "Hasan Mahmud",
+    "title": "Performance profiling for search",
+    "description": "Profile search endpoint latency and optimize queries/indexes to reduce 95th percentile response time.",
+    "customer": "DataVista",
+    "priority": "critical",
+    "status": "open",
+    "createdAt": "2025-09-18"
+  },
+  {
+    "id": 110,
+    "name": "Sharmin Akter",
+    "title": "Customer feedback survey",
+    "description": "Create and send a NPS survey to customers who onboarded in the last 60 days; collect and summarize results.",
+    "customer": "BrightLeaf",
+    "priority": "low",
+    "status": "done",
+    "createdAt": "2025-03-12"
+  },
+  {
+    "id": 111,
+    "name": "Rafi Ahmed",
+    "title": "Localization: Bengali support",
+    "description": "Add Bengali translations for core UI, support RTL adjustments where necessary, and add locale switcher.",
+    "customer": "LocalizeNow",
+    "priority": "medium",
+    "status": "in_progress",
+    "createdAt": "2025-08-22"
+  },
+  {
+    "id": 112,
+    "name": "Niloy Das",
+    "title": "Setup staging CI pipeline",
+    "description": "Configure CI to deploy to staging on every push to `develop`, include migrations and smoke tests.",
+    "customer": "Internal",
+    "priority": "high",
+    "status": "open",
+    "createdAt": "2025-09-20"
+  }
+]
